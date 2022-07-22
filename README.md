@@ -1,5 +1,5 @@
 # Corte-3-P.Integrador
-La aplicación desarrollada por el equipo SoftSolf para el cliente Sirgei Garcia Ballinas se encuentra con sus diferentes versiones y avances en el siguiente repositorio: <br />
+La aplicación desarrollada por el equipo SoftSolf para el cliente Sirgei Garcia Ballinas se encuentra con sus diferentes versiones y avances en los siguientes repositorios: <br />
 Front: <br />
 https://github.com/Steven-Padilla/Proyecto-integrador-front <br />
 Back: <br />
